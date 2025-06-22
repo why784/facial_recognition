@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6D96EF-F742-41D4-8796-FEF79DFA6EA7}|PixelArtGenerator.csproj|e:\\\u5927\u4E8C\u4E0B\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\windowssqllink\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6D96EF-F742-41D4-8796-FEF79DFA6EA7}|PixelArtGenerator.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6D96EF-F742-41D4-8796-FEF79DFA6EA7}|PixelArtGenerator.csproj|E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6D96EF-F742-41D4-8796-FEF79DFA6EA7}|PixelArtGenerator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6D96EF-F742-41D4-8796-FEF79DFA6EA7}|PixelArtGenerator.csproj|E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6D96EF-F742-41D4-8796-FEF79DFA6EA7}|PixelArtGenerator.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:54:30.201Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:24:09.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\\u5927\u4E8C\u4E0B\\Windows\u7A0B\u5E8F\u8BBE\u8BA1\\\u5B9E\u9A8C\\WindowsSQLLINK\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAmwPEBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:19:17.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

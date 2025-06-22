@@ -1,0 +1,5 @@
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\TextArtGenerator.csproj.AssemblyReference.cache
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\WindowsSQLLINK.Properties.Resources.resources
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\TextArtGenerator.csproj.GenerateResource.cache
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\TextArtGenerator.csproj.CoreCompileInputs.cache
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\TextArtGenerator.MainForm.resources

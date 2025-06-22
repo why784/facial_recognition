@@ -1,0 +1,10 @@
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\PixelArtGenerator.csproj.AssemblyReference.cache
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\WindowsSQLLINK.Properties.Resources.resources
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\PixelArtGenerator.csproj.GenerateResource.cache
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\PixelArtGenerator.csproj.CoreCompileInputs.cache
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\bin\Debug\WindowsSQLLINK.exe.config
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\bin\Debug\WindowsSQLLINK.exe
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\bin\Debug\WindowsSQLLINK.pdb
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\WindowsSQLLINK.exe
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\WindowsSQLLINK.pdb
+E:\大二下\Windows程序设计\实验\WindowsSQLLINK\obj\Debug\PixelArtGenerator.MainForm.resources
