@@ -1,0 +1,2 @@
+# C-facial_recognition
+本仓库放置调用百度人脸识别api的Windows应用开发项目
